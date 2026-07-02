@@ -1,0 +1,21 @@
+# Java
+*.class
+
+# Build
+bin/
+build/
+out/
+dist/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
